@@ -8,9 +8,9 @@ Welcome to my recipe website, where I showcase a variety of delicious recipes fo
 
 My website features a selection of easy-to-follow recipes for you to try at home. Each recipe page includes a delicious image of the finished dish, a list of ingredients, and step-by-step instructions for preparation. Here are a few examples of the recipes you'll find on my website:
 
-- **🍕 Pizza Margerita** - a classic Italian dish made with tomato sauce, mozzarella cheese, and basil leaves.
+- **🍕 Pizza Margherita** - a classic Italian dish made with tomato sauce, mozzarella cheese, and basil leaves.
 - **🧀 Macaroni Cheese** - a comforting dish made with elbow macaroni, cheese sauce, and bread crumbs.
-- **🍖 Beef Ragu** - a hearty Italian dish made with slow-cooked beef and a flavorful tomato-based sauce.
+- **🍖 Beef Rag&ugrave;** - a hearty Italian dish made with slow-cooked beef and a flavorful tomato-based sauce.
 
 ## Navigation
 
