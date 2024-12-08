@@ -1,5 +1,7 @@
 # 🍴 Recipe Website 🍴
 
+Live Demo: [The Odin Recipes Project](https://ernestocampese.github.io/odin-recipes/)
+
 Welcome to my recipe website, where I showcase a variety of delicious recipes for you to try at home! This website is a simple project created for The Odin Project's HTML fundamentals course, with the main goal of testing my knowledge of HTML links, IMG tags, file structure, headings, and paragraphs.
 
 ## Recipes
